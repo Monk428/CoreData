@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BACE718-DE00-4D87-9872-6DBD4E804F78</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyNotesWorkspace</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>847B3DADE7A4FEF61B2599F6A186A2CCC1691F0A</key>
+		<string>github.com:eorient01/iosbook1_code.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ch10/10.5 CoreDataMyNotesWorkspace/MyNotesWorkspace.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>847B3DADE7A4FEF61B2599F6A186A2CCC1691F0A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:eorient01/iosbook1_code.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>847B3DADE7A4FEF61B2599F6A186A2CCC1691F0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>847B3DADE7A4FEF61B2599F6A186A2CCC1691F0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E4%BB%A3%E7%A0%81</string>
+		</dict>
+	</array>
+</dict>
+</plist>
